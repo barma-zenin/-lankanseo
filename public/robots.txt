@@ -1,0 +1,12 @@
+# robots.txt for LankanSEO
+# https://lankanseo.com
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://lankanseo.com/sitemap.xml
+
+# Disallow private directories (if any exist in future)
+# Disallow: /admin/
+# Disallow: /private/

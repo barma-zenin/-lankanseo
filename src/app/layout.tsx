@@ -78,7 +78,7 @@ export const metadata: Metadata = {
     canonical: "https://lankanseo.dpdns.org",
   },
   verification: {
-    google: "YOUR_GOOGLE_SEARCH_CONSOLE_VERIFICATION_CODE",
+    google: "b2WSc05OuTFP8wLVvjyB1P0yhzIThF3wYZGJXHgkNsg",
     yandex: "YOUR_YANDEX_VERIFICATION_CODE",
   },
   other: {
